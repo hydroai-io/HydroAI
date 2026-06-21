@@ -1,0 +1,422 @@
+id,state,state_abb,state_id,county,county_id,operator,ref,name,sqft,lon,lat,type,company
+9474864,North Carolina,NC,37,Caldwell County,27,Google,,Google Data Center,3407194.0,-81.54651452543965,35.89473769568106,campus,google
+13924557,Iowa,IA,19,Polk County,153,Microsoft,,Project Alluvion,11169421.0,-93.71182964871085,41.51596683171199,campus,microsoft
+14997588,Virginia,VA,51,Henrico County,87,Meta,,Meta Henrico Data Center,4671056.0,-77.23645509442149,37.482763284885785,campus,meta
+18518989,Alabama,AL,1,Madison County,89,Meta,,Meta Huntsville Data Center,14435561.0,-86.62831680386925,34.84424467802452,campus,meta
+19787207,Virginia,VA,51,Prince William County,153,Microsoft,1,Microsoft Data Center 1,248706.0,-77.58237918867958,38.8024111256264,building,microsoft
+19988712,Oregon,OR,41,Crook County,13,Meta,,Meta Prineville Datacenter,17379079.0,-120.88638228128598,44.29844323079028,campus,meta
+45776978,Virginia,VA,51,Prince William County,153,Amazon Web Services,Amazon IAD11,Amazon IAD11,122474.0,-77.54111111954948,38.790500006452135,building,amazon
+45776979,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD24,Amazon IAD24,31388.0,-77.54000633908686,38.79035015175034,building,amazon
+45776988,Virginia,VA,51,Prince William County,153,Amazon Web Services,Amazon IAD-7,Amazon IAD7,109423.0,-77.53827709301147,38.79120375196744,building,amazon
+48242814,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD10,Amazon IAD10,112726.0,-77.43287558139869,39.0216455535984,building,amazon
+48242816,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD32,Amazon IAD32,35700.0,-77.43479445422666,39.02156932429181,building,amazon
+222672860,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD55,Amazon IAD-55,228140.0,-77.64876376105127,38.81506150876172,building,amazon
+224998784,California,CA,6,Santa Clara County,85,Microsoft,,Microsoft,166655.0,-121.94643635591544,37.3620662092011,building,microsoft
+231769626,Oregon,OR,41,Wasco County,65,Google,,Google Data Center The Dalles Oregon,1487396.0,-121.2013022306046,45.63204799165709,campus,google
+258343744,Virginia,VA,51,Fairfax County,59,Amazon Web Services,IAD-9,Amazon IAD-9,85855.0,-77.453440411722,38.89965169321406,building,amazon
+258343748,Virginia,VA,51,Fairfax County,59,,,Amazon IAD22,30140.0,-77.45510184070243,38.89790175442311,building,amazon
+258343749,Virginia,VA,51,Fairfax County,59,Amazon Web Services,IAD-1,Amazon IAD-1,93882.0,-77.45407518694847,38.89785914212506,building,amazon
+299927846,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD76,Amazon IAD76,138071.0,-77.45050945562221,38.99378528168933,building,amazon
+299929061,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD12,Amazon IAD12,149598.0,-77.44767141862896,38.98872330810434,building,amazon
+300969615,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services Building C,116698.0,-77.48544866796638,39.00275165389682,building,amazon
+364289073,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft,258191.0,-98.69072125219772,29.478216376231007,building,microsoft
+364289074,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft San Antonio,478642.0,-98.6926080915504,29.479925996060736,building,microsoft
+364289077,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft,194916.0,-98.69655923476324,29.48106634167372,building,microsoft
+410408073,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,151246.0,-119.88299787007462,47.23947854795628,building,microsoft
+410408074,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,147922.0,-119.88308360926234,47.23857484529072,building,microsoft
+414055237,Wyoming,WY,56,Laramie County,21,Microsoft,CYS,Microsoft CYS Datacenter,8353216.0,-104.90530165717428,41.12341444962218,campus,microsoft
+426586135,Colorado,CO,8,Adams County,1,Google,,Google - Thornton,86059.0,-104.98324467111505,39.92241855755477,building,google
+438077632,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,39146.0,-93.82494906980826,41.540615955851,building,microsoft
+438078069,Iowa,IA,19,Polk County,153,Meta,,Facebook Altoona Data Center 1,315400.0,-93.51472775765038,41.6642411277008,building,meta
+438078070,Iowa,IA,19,Polk County,153,Meta,,Facebook Altoona Data Center 2,307370.0,-93.5081704115336,41.66553719114288,building,meta
+460053028,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services Datacenter Complex,1088049.0,-77.45106545332197,39.0265748165722,campus,amazon
+460053030,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,1022344.0,-77.4586618970949,39.02886985735719,campus,amazon
+460056017,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD-61,Amazon IAD-61,152289.0,-77.49198694607598,38.91580512574743,building,amazon
+460056019,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD51,Amazon IAD51,64127.0,-77.43650684069107,38.991413813734994,building,amazon
+460056020,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD56,Amazon IAD56,78441.0,-77.43706177436276,38.990567610094665,building,amazon
+460056023,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD16,Amazon IAD16,75817.0,-77.44882479290187,38.99069899784283,building,amazon
+460056024,Virginia,VA,51,Loudoun County,107,Amazon Web Services,Amazon IAD15,Amazon IAD15,103452.0,-77.44857953268574,38.99169289545036,building,amazon
+460059465,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD14,Amazon IAD14,118192.0,-77.54821678521624,38.78993178096453,building,amazon
+460060340,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD59,Amazon IAD59,127281.0,-77.54844963730864,38.79222600770484,building,amazon
+460060341,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD52,Amazon IAD52,126699.0,-77.54837196346583,38.79106882111887,building,amazon
+460067220,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services Datacenter Complex,1106310.0,-82.75171093377944,40.09388273554784,campus,amazon
+460067225,Ohio,OH,39,Franklin County,49,Amazon Web Services us-east-2 datacenter,,Amazon AWS: Hilliard Data Center,2578490.0,-83.13425799033122,40.05990219147888,campus,amazon
+460070143,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX2,Amazon PDX2,133053.0,-119.26777584933068,45.91640356429687,building,amazon
+460070144,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX4,Amazon Web Services us-west-2,127483.0,-119.65276874957644,45.84100319369004,building,amazon
+460070145,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX50/53,Amazon Web Services us-west-2,267452.0,-119.62988821726834,45.85223533738975,building,amazon
+460070147,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX1,Amazon Web Services us-west-2,103260.0,-119.6305237000272,45.85088075126984,building,amazon
+460089167,North Carolina,NC,37,Rutherford County,161,Meta,FRC,Meta Forest City datacenter,241126.0,-81.82213877550394,35.3142312569782,building,meta
+460089168,North Carolina,NC,37,Rutherford County,161,Meta,FRC,Meta Forest City datacenter,244176.0,-81.82632689449466,35.31737236865609,building,meta
+460175672,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,AWS Building E,153355.0,-77.48561242978808,39.00505158640794,building,amazon
+463571875,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD78,Amazon IAD78,147979.0,-77.44952022668694,39.02636804262541,building,amazon
+463571876,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD79,Amazon IAD79,148678.0,-77.45087034712718,39.026357370464034,building,amazon
+465062052,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD87,Amazon IAD87,147390.0,-77.44116774003697,38.99181366629844,building,amazon
+465062053,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD88,Amazon IAD88,147468.0,-77.44187048800238,38.99096434751658,building,amazon
+490997243,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD73,Amazon IAD73,146162.0,-77.55909921912577,38.77797945837826,building,amazon
+490997244,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD74,Amazon IAD74,147480.0,-77.55789122919084,38.77743693462092,building,amazon
+499403180,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,143439.0,-119.8874068597649,47.23948680981334,building,microsoft
+500820007,Texas,TX,48,Tarrant County,439,Meta,,Facebook Fort Worth Datacenter,634395.0,-97.25934313221772,32.98378403788744,building,meta
+544596573,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD63,Amazon IAD63,143980.0,-77.49325147292357,38.9168847531172,building,amazon
+545396372,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD62,Amazon IAD62,149941.0,-77.51987469094145,38.94932164782646,building,amazon
+545730285,Iowa,IA,19,Polk County,153,Meta,,Altoona Meta Data Center,26568553.0,-93.51143854964342,41.66969372876868,campus,meta
+556564909,Iowa,IA,19,Polk County,153,Meta,,Facebook Altoona Data Center 3,377755.0,-93.50646556541808,41.66707142244616,building,meta
+556599693,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD71,Amazon IAD71,121176.0,-77.4575028799799,39.02790807231044,building,amazon
+556599694,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD50,Amazon IAD50,202194.0,-77.45968288935686,39.02956976120693,building,amazon
+556599695,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD60,Amazon IAD60,110965.0,-77.4582461041282,39.02877370248201,building,amazon
+562775657,Ohio,OH,39,Licking County,89,Amazon Web Services,CMH50,Amazon Web Services  CMH50,161683.0,-82.75133937578003,40.09462975659448,building,amazon
+578412815,New Mexico,NM,35,Valencia County,61,Meta,,Meta Los Lunas Data Center,21836553.0,-106.77989614196927,34.8302282334924,campus,meta
+578435601,Georgia,GA,13,Douglas County,97,Google,,Google Datacenter - Douglas County,2608502.0,-84.58522343651347,33.7505902365265,campus,google
+578438011,Iowa,IA,19,Pottawattamie County,155,Google,,Google,2304742.0,-95.86449775401766,41.22165804807755,campus,google
+578443547,Illinois,IL,17,Cook County,31,Microsoft,,Microsoft - Azure Datacenter,306766.0,-87.91824122484651,41.923005619536646,building,microsoft
+592171280,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX52,Amazon Web Services us-west-2,151857.0,-119.65497937870389,45.8404435353901,building,amazon
+592257327,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX51/54,Amazon PDX51/54,260806.0,-119.26773387516516,45.91744776004561,building,amazon
+596690174,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD80,Amazon IAD80,150443.0,-77.4528288502262,39.027108657277445,building,amazon
+610827836,South Carolina,SC,45,Berkeley County,15,Google,,Google,146623.0,-80.04145344691864,33.064272175156404,building,google
+626226408,South Carolina,SC,45,Berkeley County,15,Google,,Google Berkeley County Data Center,8310940.0,-80.04215854242156,33.06378014460109,campus,google
+626785488,New Mexico,NM,35,Valencia County,61,Meta,3,Meta,654433.0,-106.78382909936067,34.830246608460115,building,meta
+633034071,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX58/61,Amazon Web Services us-west-2,284033.0,-119.65793309033624,45.841413570882,building,amazon
+639176155,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft TRP2,169781.0,-98.80398520347534,29.41195432542485,building,microsoft
+639176157,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft TRP1,177468.0,-98.80273022506276,29.41201232003809,building,microsoft
+667573133,Virginia,VA,51,Prince William County,153,Amazon IAD85,IAD85,Amazon Web Services,149064.0,-77.54172453948773,38.779381509444576,building,amazon
+671301768,Ohio,OH,39,Licking County,89,Meta,,Meta New Albany Data Center,663238.0,-82.7503408359755,40.06840826479164,building,meta
+673145182,Texas,TX,48,Tarrant County,439,Meta,,Facebook Fort Worth Datacenter,435206.0,-97.25507514509351,32.984993663270515,building,meta
+673532692,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,161809.0,-83.13517288858029,40.06115215749759,building,amazon
+675108684,Virginia,VA,51,Mecklenburg County,117,Microsoft,,Microsoft Boydton Data Center,11273954.0,-78.37655327186563,36.685373308018725,campus,microsoft
+693381106,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD68,Amazon IAD68,181794.0,-77.52095152964785,38.94868695570169,building,amazon
+693381107,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD81,Amazon IAD81,184907.0,-77.52183101959601,38.94838582329714,building,amazon
+693385812,Virginia,VA,51,Loudoun County,107,Google,ARA1,Google,215928.0,-77.5243689977558,38.943153938233976,building,google
+693390022,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD120,Amazon IAD120,188334.0,-77.49806149327199,38.95792208165856,building,amazon
+693390023,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD121,Amazon IAD121,154814.0,-77.49778688217901,38.95678305314267,building,amazon
+694493125,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,112036.0,-119.88757256028282,47.23765678799786,building,microsoft
+694493126,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,116001.0,-119.88319809847748,47.23762824027307,building,microsoft
+694493127,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,157191.0,-119.88329009579328,47.23672160801631,building,microsoft
+694493128,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,162608.0,-119.88747588150468,47.236737102694434,building,microsoft
+697020849,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD58,Amazon IAD58,136770.0,-77.44184182852638,38.986278739590496,building,amazon
+697020850,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD57,Amazon IAD57,116533.0,-77.44263838662451,38.98699723329166,building,amazon
+697021948,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD64,Amazon IAD64,147547.0,-77.65291934437082,38.81513240657421,building,amazon
+697021949,Virginia,VA,51,Prince William County,153,Amazon,,,1278242.0,-77.65269565653946,38.81581597741176,campus,amazon
+697413741,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX57/60,Amazon PDX57/60,271590.0,-119.26771376022246,45.913883188873065,building,amazon
+697415321,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX55,Amazon Web Services us-west-2,123601.0,-119.65544902618971,45.84117425838994,building,amazon
+697415323,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX56/59,Amazon Web Services us-west-2,263671.0,-119.6300360999594,45.853786061670256,building,amazon
+697417726,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX62,Amazon Web Services us-west-2,211981.0,-119.60370922412667,45.84665532541318,building,amazon
+700001774,Washington,WA,53,Grant County,25,Microsoft,,Microsoft MWH Data Center,8381014.0,-119.88771018102906,47.23776925865819,campus,microsoft
+700431553,Oregon,OR,41,Wasco County,65,Google,,Google Taylor Lake Data Center,1100932.0,-121.20240398131143,45.63852891759573,campus,google
+701924667,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD90,Amazon IAD90,147749.0,-77.41165153795028,38.988603084770965,building,amazon
+701924668,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD91,Amazon IAD91,149486.0,-77.4111191682655,38.98784716047373,building,amazon
+701924669,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD92,Amazon IAD92,149857.0,-77.41047540861862,38.98694260549739,building,amazon
+701929066,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD144,Amazon IAD144,150384.0,-77.42742182982602,38.981642917536455,building,amazon
+701930920,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD98,Amazon IAD98,150826.0,-77.43388565556346,39.02022492908554,building,amazon
+701930921,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD99,Amazon IAD99,150804.0,-77.43402989103284,39.01916893584491,building,amazon
+701930929,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD114,Amazon IAD114,148005.0,-77.45069857065232,39.03549407754049,building,amazon
+701930930,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD115,Amazon IAD115,146333.0,-77.44979480828684,39.03629402145032,building,amazon
+701931819,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD65,Amazon IAD65,151356.0,-77.49436645394151,38.917010722177295,building,amazon
+701931820,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD150,Amazon IAD150,213595.0,-77.47725088518797,38.91607635389445,building,amazon
+706726088,Virginia,VA,51,Loudoun County,107,Google,,Stonewall Creek Business Park,1291753.0,-77.53939966702264,39.05143172924,campus,google
+706776322,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX80,Amazon PDX80,215703.0,-119.36661621765712,45.79780879526037,building,amazon
+708931343,Tennessee,TN,47,Montgomery County,125,Google LLC,,Google Montgomery Data Center,26612163.0,-87.2600112195247,36.62857603307224,campus,google
+710070925,Virginia,VA,51,Loudoun County,107,Google,,Google Data Center,140634.0,-77.53957659001316,39.05264058118304,building,google
+714622339,Virginia,VA,51,Loudoun County,107,Google,,Google Data Center,2143143.0,-77.52625036711285,38.94277143488421,campus,google
+714622340,Virginia,VA,51,Loudoun County,107,,,Amazon Fadeley III,1654964.0,-77.5215991553083,38.94833223285257,campus,amazon
+714889192,Alabama,AL,1,Jackson County,71,Google LLC,,Google Jackson County Data Center,7582142.0,-85.74826082398661,34.914333709146234,campus,google
+714941629,Nebraska,NE,31,Sarpy County,153,Meta,,Sarpy Meta Data Center,5922319.0,-96.14372146857282,41.121753730397295,campus,meta
+744491691,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD145,Amazon IAD145,103663.0,-77.4246254873571,38.98255213281915,building,amazon
+744496741,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD117,Amazon Web Services IAD117,102452.0,-77.41909467085335,39.02369830815542,building,amazon
+744496750,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD116,Amazon Web Services IAD116,102629.0,-77.42043928426207,39.02434599828099,building,amazon
+756778306,New Mexico,NM,35,Valencia County,61,Meta,2,Meta,543736.0,-106.78034710972685,34.83004000903251,building,meta
+762116506,Virginia,VA,51,Henrico County,87,Meta,,Meta Henrico Data Center,588189.0,-77.23731114669016,37.483928208517945,building,meta
+777679751,New Mexico,NM,35,Valencia County,61,Meta,1,Meta,654617.0,-106.77647063706308,34.83028297052059,building,meta
+788027103,Iowa,IA,19,Polk County,153,Meta,,Facebook Altoona Data Center 4,606958.0,-93.5163985612244,41.66773731235317,building,meta
+793087859,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD118,Amazon IAD118,105629.0,-77.43883923491136,39.01850733590168,building,amazon
+794147657,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD146,Amazon IAD146,103076.0,-77.43559835674785,38.9967245725433,building,amazon
+795384117,Arizona,AZ,4,Maricopa County,13,Microsoft,PHX-10,PHX-10,246184.0,-112.36482981743816,33.40794624396243,building,microsoft
+795853621,Nebraska,NE,31,Sarpy County,153,Meta,,Sarpy Meta Data Center,6242843.0,-96.13364372425686,41.12194722186616,campus,meta
+802160675,Ohio,OH,39,Licking County,89,Meta,,Meta New Albany Data Center,663286.0,-82.74890966242867,40.06527171787832,building,meta
+815057182,Texas,TX,48,Tarrant County,439,Meta,,Facebook Fort Worth Datacenter,753193.0,-97.2554600255551,32.98829583281708,building,meta
+817338831,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD140,Amazon IAD140,215095.0,-77.4175500441367,38.98145515417609,building,amazon
+817338832,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD141,Amazon IAD141,216850.0,-77.4167856863848,38.98238771254631,building,amazon
+821081357,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,151703.0,-83.1996986090437,40.10257307151942,building,amazon
+821081358,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,159123.0,-83.1997637520824,40.10358662896317,building,amazon
+828135845,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD84,Amazon IAD84,152692.0,-77.65249934084503,38.8161031223026,building,amazon
+830881731,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,153956.0,-93.70254178906356,41.51674074828143,building,microsoft
+830881732,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,149149.0,-93.70251346931218,41.51584274137181,building,microsoft
+830881733,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,144428.0,-93.70630110395008,41.5158179370744,building,microsoft
+830881734,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,146482.0,-93.70635081713183,41.51671171276783,building,microsoft
+830881742,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,145134.0,-93.70633127239608,41.51850163161288,building,microsoft
+830881743,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,143145.0,-93.7063124996927,41.51760660601612,building,microsoft
+830881744,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,141016.0,-93.70249272354832,41.51764119065465,building,microsoft
+830881745,Iowa,IA,19,Polk County,153,Microsoft,,Microsoft,141225.0,-93.70252494893268,41.51853822500233,building,microsoft
+830885773,Iowa,IA,19,Warren County,181,Microsoft,,Microsoft,239270.0,-93.78703936226476,41.49787064306023,building,microsoft
+830885774,Iowa,IA,19,Warren County,181,Microsoft,,Microsoft,243678.0,-93.78707464281725,41.49891302864557,building,microsoft
+830885779,Iowa,IA,19,Madison County,121,Microsoft,,Project Osmium,3691114.0,-93.78856494092211,41.4982126945884,campus,microsoft
+830931210,Iowa,IA,19,Polk County,153,Meta,,Facebook Altoona Data Center 5,628003.0,-93.51662854518422,41.67117312225116,building,meta
+844359205,Nevada,NV,32,Clark County,3,,,Google Data Center,2037873.0,-115.00905166700048,36.05779722778458,campus,google
+844359206,Nevada,NV,32,Clark County,3,Google,,Google,143869.0,-115.00857680765697,36.056288380442616,building,google
+844359207,Nevada,NV,32,Clark County,3,Google,,Google,141227.0,-115.00879721733386,36.05880161382709,building,google
+844371952,Alabama,AL,1,Jackson County,71,Google,,Google,144996.0,-85.74742813692481,34.9136919358168,building,google
+844371953,Alabama,AL,1,Jackson County,71,Google,,Google,141947.0,-85.74593535678355,34.91367641738197,building,google
+844386860,Texas,TX,48,Ellis County,139,Google,,Google,144574.0,-97.06248797347524,32.44212970719258,building,google
+844386861,Texas,TX,48,Ellis County,139,Google,,Google,138230.0,-97.06333284249686,32.44355545089075,building,google
+844389014,Tennessee,TN,47,Montgomery County,125,Google,SPC2A,Google,169736.0,-87.26129639057423,36.62458167653138,building,google
+844391358,Ohio,OH,39,Licking County,89,Google,,Google NBY-1,145177.0,-82.76429366972576,40.06114460722927,building,google
+844394339,Nebraska,NE,31,Sarpy County,153,Meta,,Meta Sarpy Data center,666382.0,-96.14419028998032,41.12354217069119,building,meta
+844394340,Nebraska,NE,31,Sarpy County,153,Meta,,Meta Sarpy Data center,515084.0,-96.14485433047682,41.1207319993102,building,meta
+844394357,Nebraska,NE,31,Sarpy County,153,Google,,Google,152487.0,-96.14672977480356,41.13497469466853,building,google
+852039781,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD119,Amazon IAD119,127104.0,-77.43938662806684,39.01693014125531,building,amazon
+871745265,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,220735.0,-93.82789533434016,41.540709217348976,building,microsoft
+874506250,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,161757.0,-83.13490722876958,40.06014718926057,building,amazon
+883809860,North Carolina,NC,37,Rutherford County,161,Meta,FRC,Meta Forest City datacenter,319829.0,-81.82513233085027,35.316554514924,building,meta
+883809862,North Carolina,NC,37,Rutherford County,161,Meta,,Facebook Forest City Data Center,4849510.0,-81.82474729583835,35.315698382784056,campus,meta
+886028872,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD128,Amazon IAD128,105735.0,-77.43838436569268,39.01608221259819,building,amazon
+886330269,Virginia,VA,51,Loudoun County,107,Microsoft,,Microsoft,155317.0,-77.56412899431636,39.07478688334023,building,microsoft
+897226574,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD125,Amazon IAD125,104431.0,-77.56054492011098,38.94808953816639,building,amazon
+897226575,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD124,Amazon IAD124,104434.0,-77.56045170040849,38.94989544830295,building,amazon
+914613836,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX91,Amazon PDX91,210994.0,-119.68835481078412,45.83792394838973,building,amazon
+914616809,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX92,Amazon PDX92,211026.0,-119.6931290980946,45.83754024756914,building,amazon
+914616810,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX64,Amazon Web Services us-west-2,211938.0,-119.60564495354758,45.84665461437445,building,amazon
+930849744,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD163,Amazon IAD163,131936.0,-77.42970207458241,39.03230534445815,building,amazon
+954433119,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD175,Amazon IAD175,86503.0,-77.42547991599417,38.97986799140556,building,amazon
+958662382,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD147,Amazon IAD147,102767.0,-77.43535922197498,38.99501200382876,building,amazon
+975484796,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,170922.0,-83.13460627634682,40.05932515588516,building,amazon
+975484797,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,133709.0,-83.13409055935804,40.05830889449401,building,amazon
+975484798,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,142297.0,-83.13275276040426,40.06077960066598,building,amazon
+984953813,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD174,Amazon IAD174,132388.0,-77.42747327984164,39.02891562520285,building,amazon
+984953814,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD164,Amazon IAD164,132374.0,-77.42894228408753,39.03047299575455,building,amazon
+986829280,Virginia,VA,51,Loudoun County,107,Microsoft,,Microsoft,97581.0,-77.56303534723706,39.07550786595816,building,microsoft
+989735623,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD152,Amazon IAD152,156644.0,-77.47974227140159,38.91657561831895,building,amazon
+989735624,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD151,Amazon IAD151,155542.0,-77.47870521719227,38.916150911627575,building,amazon
+990537813,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD83,Amazon IAD83,156166.0,-77.52310750749479,38.947946059437584,building,amazon
+990537821,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD93,Amazon Web Services,16739.0,-77.52218796260958,38.946539218555614,building,amazon
+990537857,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD122,Amazon IAD122,153273.0,-77.49717993007393,38.955863227653474,building,amazon
+996723587,Virginia,VA,51,Prince William County,153,Amazon IAD96,IAD96,Amazon Web Services,149064.0,-77.53988381836808,38.78015146527289,building,amazon
+996723588,Virginia,VA,51,Prince William County,153,Amazon IAD95,IAD95,Amazon Web Services,214748.0,-77.53942706487335,38.77845091390774,building,amazon
+996723589,Virginia,VA,51,Prince William County,153,Amazon IAD75,IAD75,Amazon Web Services,214662.0,-77.54289591312165,38.77934250130272,building,amazon
+996899486,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD102,Amazon IAD102,214338.0,-77.50490133103251,38.73597010187111,building,amazon
+996899487,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD101,Amazon IAD101,214330.0,-77.50569511718139,38.735440154226055,building,amazon
+996899488,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD100,Amazon IAD100,214611.0,-77.506642396707,38.73459785381264,building,amazon
+998245264,Illinois,IL,17,Cook County,31,,,Microsoft Data Center - Hoffman Estates,2105271.0,-88.13389076420349,42.07695198404611,campus,microsoft
+1000784035,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,112502.0,-77.53338365008187,38.74305258344758,building,amazon
+1010260675,Texas,TX,48,Medina County,325,Microsoft,,Microsoft TRP3 (SAT46),228897.0,-98.806374449939,29.4129769887884,building,microsoft
+1010260676,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft,228882.0,-98.80331595094908,29.41579676372189,building,microsoft
+1010260677,Texas,TX,48,Bexar County,29,Microsoft,,Microsoft,228885.0,-98.8045147999406,29.415795638787,building,microsoft
+1015995259,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD601,Amazon IAD601,14469.0,-77.55711533400657,38.77885736291117,building,amazon
+1019770124,Illinois,IL,17,DeKalb County,37,Meta Platforms,,DeKalb Meta Data Center,12793294.0,-88.72856898056978,41.88904034750541,campus,meta
+1020374277,Ohio,OH,39,Licking County,89,Amazon Web Services,CMH53,Amazon Web Services  CMH53,154029.0,-82.75145548070124,40.09361643944408,building,amazon
+1020374278,Ohio,OH,39,Licking County,89,Amazon Web Services,CMH56,Amazon Web Services CMH56,154677.0,-82.75205114610061,40.09653435041937,building,amazon
+1020374279,Ohio,OH,39,Licking County,89,Amazon Web Services,CMH59,Amazon Web Services  CMH59,161123.0,-82.74749104888826,40.09404615807959,building,amazon
+1020877488,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD162,Amazon Web Services,131476.0,-77.4712911922763,38.9958476154284,building,amazon
+1020877489,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD161,Amazon Web Services,131482.0,-77.47326247561796,38.99660796472238,building,amazon
+1024051963,Utah,UT,49,Utah County,49,Meta,,Meta Eagle Mountain Data Center,344790.0,-112.01507681579746,40.26828850505122,building,meta
+1024051997,Utah,UT,49,Utah County,49,Meta,,Meta Eagle Mountain Data Center,626371.0,-112.01512736677896,40.2655639892377,building,meta
+1027471509,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX66,Amazon Web Services us-west-2,211938.0,-119.60703845354756,45.84666781437448,building,amazon
+1027471510,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX68,Amazon Web Services us-west-2,221562.0,-119.60906254768788,45.846753781437606,building,amazon
+1030970564,Virginia,VA,51,Henrico County,87,Meta,,Meta Henrico Data Center,327920.0,-77.23380499305182,37.48196326360026,building,meta
+1035123473,Utah,UT,49,Utah County,49,Meta,,Meta Eagle Mountain Data Center,628165.0,-112.01505471830352,40.27233431054834,building,meta
+1035123482,Utah,UT,49,Utah County,49,,,Meta Eagle Mountain Data Center,22734233.0,-112.01771937397096,40.26819070295294,campus,meta
+1037871048,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD601,Amazon IAD601,14384.0,-77.43777001853674,39.015262930158144,building,amazon
+1038780426,Nebraska,NE,31,Sarpy County,153,,,Sarpy Meta Data Center,7817408.0,-96.14365637259768,41.11410707210003,campus,meta
+1054387470,Georgia,GA,13,Newton County,217,Meta,,Meta Stanton Springs Data Center,9032398.0,-83.70034219452744,33.60076107577663,campus,meta
+1054387471,Georgia,GA,13,Newton County,217,Meta,,,660258.0,-83.70541734238208,33.6013709927818,building,meta
+1057230915,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX93,Amazon PDX93,213828.0,-119.68986643174064,45.83654228757941,building,amazon
+1059030596,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,111697.0,-77.53332238839505,38.74428601144499,building,amazon
+1059037050,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD132,COPT Innovation Park Data Center,149206.0,-77.53062487747106,38.74388634728904,building,amazon
+1059037051,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD133,COPT Data Center Bldg 2,104114.0,-77.5291961000727,38.74405494832178,building,amazon
+1065780801,California,CA,6,Santa Clara County,85,Amazon Web Services,,Amazon,98142.0,-121.96598983231348,37.3899327218429,building,amazon
+1069388067,South Carolina,SC,45,Berkeley County,15,Google,,,182645.0,-80.03831641068669,33.06202195137125,building,google
+1069388075,South Carolina,SC,45,Berkeley County,15,Google,,Google,181261.0,-80.03966007767937,33.06217398793264,building,google
+1069388095,South Carolina,SC,45,Berkeley County,15,Google,,Google,206252.0,-80.041154478933,33.0620532330343,building,google
+1069388141,South Carolina,SC,45,Berkeley County,15,Google,,Google,181645.0,-80.03845634859405,33.064311956552835,building,google
+1069388147,South Carolina,SC,45,Berkeley County,15,Google,,Google,131216.0,-80.0384282206963,33.06643643704493,building,google
+1069388156,South Carolina,SC,45,Berkeley County,15,Google,,Google,249320.0,-80.0435751320087,33.06415660970066,building,google
+1069388186,South Carolina,SC,45,Berkeley County,15,Google,,Google,697831.0,-80.04505685925874,33.062000589098496,building,google
+1069388211,South Carolina,SC,45,Berkeley County,15,Google,,Google,145533.0,-80.04606755156347,33.06443480153904,building,google
+1070895993,Georgia,GA,13,Newton County,217,Meta,,,763506.0,-83.69683907912508,33.60009367954904,building,meta
+1070895994,Georgia,GA,13,Newton County,217,Meta,,,342886.0,-83.69501281261269,33.59802145151715,building,meta
+1071772119,Washington,WA,53,Douglas County,17,Microsoft,,Microsoft EAT02,246129.0,-120.20768784943974,47.416868024109554,building,microsoft
+1073720208,Iowa,IA,19,Pottawattamie County,155,Google,,Google,76005.0,-95.80485695055478,41.17734372844027,building,google
+1073720209,Iowa,IA,19,Pottawattamie County,155,Google,,Google,318940.0,-95.80637969473156,41.17727415208592,building,google
+1073720210,Iowa,IA,19,Pottawattamie County,155,Google,,Google,258223.0,-95.8032146599412,41.17745636098298,building,google
+1073720211,Iowa,IA,19,Pottawattamie County,155,Google,,Google,211543.0,-95.80096717468037,41.17748290529598,building,google
+1073720212,Iowa,IA,19,Pottawattamie County,155,Google,,Google,131491.0,-95.80676284722784,41.17554012114429,building,google
+1073720213,Iowa,IA,19,Pottawattamie County,155,Google,,Google,129827.0,-95.80565239909376,41.17554005850446,building,google
+1073720214,Iowa,IA,19,Pottawattamie County,155,Google,,Google,132118.0,-95.80449329746104,41.17554283490945,building,google
+1073720215,Iowa,IA,19,Pottawattamie County,155,Google,,Google,132254.0,-95.8033895382722,41.175543648575314,building,google
+1073720216,Iowa,IA,19,Pottawattamie County,155,Google,,Google,130820.0,-95.80222393205068,41.175547389125526,building,google
+1073720217,Iowa,IA,19,Pottawattamie County,155,Google,,Google,129628.0,-95.80111944856117,41.17554529809748,building,google
+1073720218,Iowa,IA,19,Pottawattamie County,155,Google,,Google,134444.0,-95.79994803209584,41.17555376295006,building,google
+1073720219,Iowa,IA,19,Pottawattamie County,155,Google,,Google,174264.0,-95.80402364214318,41.1726347246986,building,google
+1073720220,Iowa,IA,19,Pottawattamie County,155,Google,,Google,174583.0,-95.80252143647044,41.172640078023726,building,google
+1073720221,Iowa,IA,19,Pottawattamie County,155,Google,,Google,158241.0,-95.8011477197886,41.17261142832355,building,google
+1075278060,Iowa,IA,19,Warren County,181,Microsoft,,Microsoft,242270.0,-93.78699632287524,41.49683039481866,building,microsoft
+1075278061,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,90065.0,-93.82631357913507,41.5398138870052,building,microsoft
+1075278062,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,80538.0,-93.82866540068235,41.539670453163886,building,microsoft
+1083297858,Arizona,AZ,4,Maricopa County,13,Meta,,Meta Data Center,14850970.0,-111.6303055253432,33.34359228321252,campus,meta
+1088203906,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,96372.0,-77.45200064122655,39.01674414789713,building,amazon
+1088203907,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,96367.0,-77.45314511765301,39.01588594875254,building,amazon
+1091128478,Arizona,AZ,4,Maricopa County,13,Microsoft,PHX-11,PHX-11,248866.0,-112.3648033961419,33.40903088866142,building,microsoft
+1103333136,Tennessee,TN,47,Montgomery County,125,Google,SPC1A,Google,169733.0,-87.26351478308135,36.62483034098189,building,google
+1103333137,Tennessee,TN,47,Montgomery County,125,Google,Building 3,SPC3A,169748.0,-87.25902652953205,36.62430276342711,building,google
+1106454555,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD143,Amazon Web Services,132491.0,-77.41749033094966,38.97955740282415,building,amazon
+1124864831,Virginia,VA,51,Loudoun County,107,Microsoft,,Microsoft IAD11,242344.0,-77.5559109545917,38.94825818613084,building,microsoft
+1126159710,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX63,Amazon PDX63,227376.0,-119.32052237838585,45.901449845508274,building,amazon
+1126159711,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX65,Amazon PDX65,217425.0,-119.32049760712084,45.90276331956975,building,amazon
+1126159714,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX67,Amazon PDX67,219900.0,-119.32048702148562,45.90385105351774,building,amazon
+1126159715,Oregon,OR,41,Umatilla County,59,Amazon Web Services,PDX69,Amazon PDX69,219735.0,-119.32016656388495,45.9050943707071,building,amazon
+1126774147,Missouri,MO,29,Clay County,47,Meta,,Meta Kansas City Data Center,13516765.0,-94.59555838490552,39.32235240495545,campus,meta
+1132541700,Virginia,VA,51,Henrico County,87,Meta,,Meta Henrico Data Center,604696.0,-77.22645499748526,37.47784537590615,building,meta
+1134911640,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD105,AWS IAD105,214270.0,-77.51947530248223,38.747595868302135,building,amazon
+1134911641,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD104,AWS IAD104,214258.0,-77.52070480173404,38.7483738354232,building,amazon
+1154503131,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,150776.0,-83.1995825830434,40.10176652448264,building,amazon
+1154503132,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,150211.0,-83.19947533976502,40.10076813040696,building,amazon
+1154503133,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,131786.0,-83.1992604839832,40.09978650124,building,amazon
+1160814413,Alabama,AL,1,Madison County,89,Meta,,Meta Huntsville Data center,578342.0,-86.6269185980179,34.847333791994075,building,meta
+1160814415,Alabama,AL,1,Madison County,89,Meta,,Meta Huntsville Data center,352651.0,-86.62886566493462,34.843182229068525,building,meta
+1160814416,Alabama,AL,1,Madison County,89,Meta,,Meta Huntsville Data center,857148.0,-86.62884123942305,34.84043160671047,building,meta
+1161094246,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD142,Amazon Web Services,129566.0,-77.41990459458856,38.97914745231349,building,amazon
+1173537116,Washington,WA,53,Douglas County,17,Microsoft,,Microsoft EAT03,235418.0,-120.20770997491816,47.41832392189266,building,microsoft
+1173537117,Washington,WA,53,Douglas County,17,Microsoft,,Microsoft EAT04,234834.0,-120.21382073657306,47.419636588714944,building,microsoft
+1173569101,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,250486.0,-93.86344403715006,41.534990295223466,building,microsoft
+1173770902,Virginia,VA,51,Loudoun County,107,Google,ARA2,Google: Arcola 2,289889.0,-77.52742942359154,38.94182146398183,building,google
+1177893426,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD603,Amazon IAD603,14733.0,-77.41935734925377,38.981546018635534,building,amazon
+1178649864,Idaho,ID,16,Ada County,1,Meta,,Meta Kuna Data Center,15951730.0,-116.267507299213,43.4631412647369,campus,meta
+1181391920,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD86,Amazon IAD86,150112.0,-77.49567435184785,38.91725619520494,building,amazon
+1181391921,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD130,Amazon IAD130,103128.0,-77.51930184592597,38.76036060090534,building,amazon
+1181391922,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD131,Amazon IAD131,104697.0,-77.51822099585065,38.76110475090396,building,amazon
+1184066765,Missouri,MO,29,Clay County,47,Meta,,Meta Data Center,615937.0,-94.59806356908612,39.32265086779682,building,meta
+1188680255,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD192,Amazon IAD192,132942.0,-77.4348013050765,38.989553544254186,building,amazon
+1191496040,New Mexico,NM,35,Valencia County,61,Meta,4,Meta,588490.0,-106.77888911307576,34.825839640241206,building,meta
+1213758201,Tennessee,TN,47,Sumner County,165,Meta,,Gallatin Data Center,17045005.0,-86.37031411803846,36.408653770477216,campus,meta
+1221862807,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD106,AWS IAD106,205206.0,-77.51852812758843,38.74697497598997,building,amazon
+1222007663,Ohio,OH,39,Licking County,89,Google,,Google NBY-2,138878.0,-82.76452657909626,40.05963281203005,building,google
+1222134968,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD609,Amazon Web Services,14235.0,-77.52358042964754,38.94913486865636,building,amazon
+1226439731,Oregon,OR,41,Morrow County,49,Amazon Web Services,PDX93,Amazon Web Services,213843.0,-119.69404769468916,45.836184457262725,building,amazon
+1227612684,Virginia,VA,51,Prince William County,153,Amazon Web Services,IAD103,Amazon IAD103,141914.0,-77.50407510523524,38.73698426710412,building,amazon
+1237493975,Nebraska,NE,31,Sarpy County,153,Google,,Google,292941.0,-96.1440729015135,41.13491995864724,building,google
+1237494981,Nebraska,NE,31,Sarpy County,153,Google,,Google,297438.0,-96.15590606506956,41.13439327581521,building,google
+1252196797,Virginia,VA,51,Fairfax County,59,Amazon Web Services,,Amazon Web Services,120946.0,-77.45247339430483,38.90434587232984,building,amazon
+1252196798,Virginia,VA,51,Fairfax County,59,Amazon Web Services,,Amazon Web Services,118988.0,-77.45475996912757,38.90483706376053,building,amazon
+1252196799,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,87645.0,-77.49055174718535,38.915904671232965,building,amazon
+1252196800,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,13879.0,-77.49097634789652,38.91498995679571,building,amazon
+1252196801,Ohio,OH,39,Licking County,89,Amazon Web Services,CMH62,Amazon Web Services CMH62,136329.0,-82.74763713445286,40.09298279215547,building,amazon
+1252196802,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,214329.0,-82.7321598268788,40.09344044223075,building,amazon
+1252196803,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,214261.0,-82.72755119564094,40.09215828085437,building,amazon
+1252196804,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,14223.0,-82.72649053707603,40.092965346506006,building,amazon
+1252196805,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,218032.0,-83.20139113655297,40.11625887855608,building,amazon
+1252196806,Ohio,OH,39,Union County,159,Amazon Web Services,,,213349.0,-83.20208181892225,40.11739966334843,building,amazon
+1252196807,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,13652.0,-83.20025962657277,40.11904802129847,building,amazon
+1252196808,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,220580.0,-83.17546025829033,40.04935754088761,building,amazon
+1252196809,Ohio,OH,39,Franklin County,49,Amazon Web Services,,,217845.0,-83.17528384542761,40.04813089818562,building,amazon
+1252196810,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,14456.0,-83.17754692245403,40.04790974075581,building,amazon
+1252196811,Ohio,OH,39,Licking County,89,Google,,Google NBY-3,284807.0,-82.76528495795795,40.05795740696205,building,google
+1252196812,Ohio,OH,39,Franklin County,49,Google,,Google NBY-4,294201.0,-82.77177556209224,40.059342128156295,building,google
+1252196813,Ohio,OH,39,Licking County,89,Meta,,Meta New Albany Data Center,608761.0,-82.75098831560908,40.06037970378648,building,meta
+1252196814,Ohio,OH,39,Franklin County,49,Google,,Google,289874.0,-82.99487523065918,39.85209794675051,building,google
+1252196815,Virginia,VA,51,Prince William County,153,Google,,Google,289731.0,-77.58252358239119,38.776122951150654,building,google
+1252196816,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,210570.0,-119.60509631980196,45.85874996159125,building,amazon
+1252196817,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,211904.0,-119.60513360298896,45.86008348238562,building,amazon
+1252196818,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,216528.0,-119.6051531215301,45.8609694312574,building,amazon
+1252196819,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,13765.0,-119.6517767921927,45.841481031506696,building,amazon
+1252196820,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,216430.0,-119.23183081247244,45.9206369354048,building,amazon
+1252196821,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,211240.0,-119.22998114838396,45.92064708433544,building,amazon
+1252196822,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,216777.0,-119.361958718014,45.79777489027666,building,amazon
+1252196823,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,216903.0,-119.3666580013381,45.799165042059165,building,amazon
+1252196824,Ohio,OH,39,Fairfield County,45,Google,,Google,289253.0,-82.69112739236837,39.724010166114695,building,google
+1252196825,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,212702.0,-77.51721534270156,38.74614581949864,building,amazon
+1252196826,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,133944.0,-77.48579976531855,38.92131351222202,building,amazon
+1253282099,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,14683.0,-77.47107161222901,38.99509407061763,building,amazon
+1253282100,Nebraska,NE,31,Sarpy County,153,Meta,,Meta Sarpy Data center,628560.0,-96.13289444072416,41.123572980157554,building,meta
+1253282101,Nebraska,NE,31,Sarpy County,153,Meta,,Meta Sarpy Data center,625288.0,-96.1428365153122,41.11432923797791,building,meta
+1253282102,Nebraska,NE,31,Sarpy County,153,Meta,,Meta Sarpy Data center,286253.0,-96.14155463388816,41.11216327459793,building,meta
+1253282103,Iowa,IA,19,Polk County,153,Meta,,Meta,493366.0,-93.50965654880696,41.67557150002093,building,meta
+1253282104,Iowa,IA,19,Polk County,153,Meta,,Meta,601076.0,-93.50603124097204,41.67582283535729,building,meta
+1276518679,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD214,Amazon IAD214,113421.0,-77.435175737807,38.986526005508,building,amazon
+1280340212,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,13569.0,-77.5202261632775,38.94736148494224,building,amazon
+1280340213,Virginia,VA,51,Loudoun County,107,Amazon Web Services,,Amazon Web Services,14079.0,-77.41752673157097,38.98357495375973,building,amazon
+1280340214,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,129225.0,-77.6221271999352,38.80289734729966,building,amazon
+1280340215,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,14507.0,-77.53309395336687,38.7451198113642,building,amazon
+1280340216,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,14389.0,-77.65433143122239,38.81459760122616,building,amazon
+1280340217,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,149332.0,-77.65215913005484,38.81696824406837,building,amazon
+1280344148,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,233609.0,-83.21583366417357,40.13418977024933,building,amazon
+1280344149,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,225421.0,-119.22880463589556,45.92059672458088,building,amazon
+1280344150,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,217375.0,-119.2270042542206,45.920560005801455,building,amazon
+1280344151,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,16064.0,-119.22609033042734,45.919515285726376,building,amazon
+1280344153,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,218698.0,-119.3416517837596,45.88251750222229,building,amazon
+1280344154,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,211930.0,-119.60511168543223,45.86225295877379,building,amazon
+1280344155,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,12811.0,-119.60487161226038,45.85803760730771,building,amazon
+1280344156,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,13923.0,-119.65130207689772,45.840670297393935,building,amazon
+1280344157,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,212775.0,-119.63208588156591,45.81993095962179,building,amazon
+1281982556,Ohio,OH,39,Franklin County,49,Google,,"Google Lockbourne, OH",11463730.0,-82.99616096097107,39.84875267736796,campus,google
+1281982572,Ohio,OH,39,Licking County,89,,,Amazon New Albany: Jug and Beach Road,1524640.0,-82.75147401690785,40.09907370699043,campus,amazon
+1283734104,Arizona,AZ,4,Maricopa County,13,Microsoft,,Microsoft,238581.0,-112.37391953991316,33.44634015387983,building,microsoft
+1287260553,Virginia,VA,51,Prince William County,153,Google,,Google,289621.0,-77.58562711780785,38.7744165289811,building,google
+1287260554,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,127010.0,-77.62121027768342,38.80185736221658,building,amazon
+1287260555,Virginia,VA,51,Prince William County,153,Amazon Web Services,,Amazon Web Services,130170.0,-77.62048061962223,38.80125678726276,building,amazon
+1287260560,Iowa,IA,19,Pottawattamie County,155,Google,,Google,294718.0,-95.79220329121615,41.17359488843065,building,google
+1287260561,Iowa,IA,19,Pottawattamie County,155,Google,,Google,296835.0,-95.78867836937772,41.17359750472643,building,google
+1294595615,Tennessee,TN,47,Sumner County,165,Meta,,Meta Gallatin Data Center,626571.0,-86.36966140352041,36.41186544511472,building,meta
+1312295357,South Carolina,SC,45,Aiken County,3,Meta,,Meta Aiken Data Center,3608146.0,-81.84262698059472,33.642273149086826,campus,meta
+1312792611,Illinois,IL,17,DeKalb County,37,Meta,,,568454.0,-88.72185807435966,41.88853040860736,building,meta
+1312792612,Illinois,IL,17,DeKalb County,37,Meta,,,568442.0,-88.73105377072714,41.88928381978822,building,meta
+1312792613,Illinois,IL,17,DeKalb County,37,Meta,,,320184.0,-88.72635519613044,41.89027497092366,building,meta
+1312795639,Tennessee,TN,47,Sumner County,165,Meta,,Meta Gallatin Data Center,626568.0,-86.3660125010422,36.41135065140836,building,meta
+1312795640,Tennessee,TN,47,Sumner County,165,Meta,,Meta Gallatin Data Center,626683.0,-86.36660783519794,36.40604868216981,building,meta
+1312801354,Nebraska,NE,31,Sarpy County,153,Google,,Google,297414.0,-96.15143114556096,41.1379099302681,building,google
+1318322071,Iowa,IA,19,Warren County,181,Microsoft,,Microsoft,247197.0,-93.78705539830352,41.49580619609169,building,microsoft
+1318322073,Iowa,IA,19,Warren County,181,Microsoft,,Microsoft,247201.0,-93.7870205983035,41.49474989609202,building,microsoft
+1333289545,Minnesota,MN,27,Dakota County,37,Meta,,Meta Rosemount Data Center,10334558.0,-93.06262672085371,44.73502983558099,campus,meta
+1340746574,New Mexico,NM,35,Valencia County,61,Meta,5,Meta,588461.0,-106.78246827061648,34.825823197722954,building,meta
+1344369104,Texas,TX,48,Bexar County,29,,,Amazon,104910.0,-98.63871379564972,29.450736236167327,building,amazon
+1374895921,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,218723.0,-119.34163563129184,45.87953253861672,building,amazon
+1374895922,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,218708.0,-119.3396900641125,45.88252484149941,building,amazon
+1375475071,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,250490.0,-93.86343863715008,41.53391629522377,building,microsoft
+1375475072,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,250494.0,-93.86346169206516,41.53283774495582,building,microsoft
+1375475073,Iowa,IA,19,Dallas County,49,Microsoft,,Microsoft,250498.0,-93.86344214206296,41.53181414495484,building,microsoft
+1377162298,Ohio,OH,39,Wood County,173,,,Meta Bowling Green Data Center,21498189.0,-83.63835552524,41.46529826036125,campus,meta
+1386016627,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,213519.0,-82.75012924483033,40.10242869167073,building,amazon
+1386016628,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,125656.0,-82.75191229497905,40.10197816995511,building,amazon
+1386016629,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,213118.0,-82.73211149672552,40.09421858757698,building,amazon
+1386016630,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,72426.0,-82.72928126568107,40.09437825776618,building,amazon
+1386016631,Ohio,OH,39,Licking County,89,Amazon Web Services,,Amazon Web Services,211441.0,-82.73200435141196,40.0955017340038,building,amazon
+1386016632,Ohio,OH,39,Franklin County,49,Google,,Google NBY-5,287008.0,-82.772048580204,40.05652000741912,building,google
+1386016633,Ohio,OH,39,Franklin County,49,Google,,Google NBY-6,287583.0,-82.76761078944944,40.05392734996134,building,google
+1386016634,Ohio,OH,39,Licking County,89,Meta,,Meta,365548.0,-82.74054460541299,40.06149628180154,building,meta
+1386016635,Ohio,OH,39,Licking County,89,Meta,,Meta,304109.0,-82.74114938512078,40.065239403615855,building,meta
+1386016636,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,210421.0,-83.21264447651147,40.13579696334773,building,amazon
+1386016637,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,156855.0,-83.19930886076622,40.12007223395813,building,amazon
+1386016638,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,211969.0,-83.20321748466178,40.11930148042772,building,amazon
+1386016639,Ohio,OH,39,Union County,159,Amazon Web Services,,Amazon Web Services,216190.0,-83.20252284370741,40.11811210088951,building,amazon
+1386016640,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,214085.0,-83.17552394889911,40.05017566216084,building,amazon
+1386016641,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,211155.0,-83.17571627041164,40.05152799488423,building,amazon
+1386016642,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,212842.0,-83.12585830529049,40.01641808152992,building,amazon
+1386016643,Ohio,OH,39,Franklin County,49,Amazon Web Services,,Amazon Web Services,217920.0,-83.12602357320513,40.02101728573019,building,amazon
+1386017490,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,214042.0,-119.61966295645044,45.85173142305967,building,amazon
+1386017491,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,210337.0,-119.61968497991585,45.85310039256019,building,amazon
+1386017492,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,210662.0,-119.63200543136976,45.81870682167566,building,amazon
+1386017493,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,215555.0,-119.63626874113692,45.8186963213564,building,amazon
+1386017494,Oregon,OR,41,Morrow County,49,Amazon Web Services,,Amazon Web Services,209033.0,-119.6362869627198,45.8199565841208,building,amazon
+1386017495,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,211502.0,-119.26861513231998,45.80963737114029,building,amazon
+1386017496,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,212806.0,-119.26861305271856,45.80827344729872,building,amazon
+1386017497,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,215405.0,-119.36173272155504,45.79902106441417,building,amazon
+1386017498,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,13837.0,-119.35844453136586,45.799686801643226,building,amazon
+1386017499,Oregon,OR,41,Umatilla County,59,Amazon Web Services,,Amazon Web Services,13867.0,-119.3589196247444,45.79773907760564,building,amazon
+1386017500,Wyoming,WY,56,Laramie County,21,Microsoft,,CYS41 Datacenter,46211.0,-104.89701277770264,41.12439345701424,building,microsoft
+1386017501,Wyoming,WY,56,Laramie County,21,Microsoft,,CYS42 Datacenter,60368.0,-104.90891013785874,41.12538272388359,building,microsoft
+1422101108,Nebraska,NE,31,Douglas County,55,Google,,Google,290161.0,-96.08466909067688,41.33914158417576,building,google
+1422101112,Nebraska,NE,31,Douglas County,55,Google,,Google,290130.0,-96.08771931019496,41.34193880105854,building,google
+1422101116,Nebraska,NE,31,Douglas County,55,Google,,Google,290105.0,-96.0935333091696,41.345162392266765,building,google
+1426525184,Texas,TX,48,Ellis County,139,Google,,Google,288830.0,-96.79316889732078,32.5389942949367,building,google
+1427613543,Ohio,OH,39,Licking County,89,Google,,Google NBY-7,175532.0,-82.7644472443362,40.05393985497952,building,google
+1429883881,Washington,WA,53,Grant County,25,Microsoft,,Microsoft,143441.0,-119.88741175976487,47.23859240981344,building,microsoft
+1447029365,Virginia,VA,51,Prince William County,153,Microsoft,2,Microsoft Data Center 2,247070.0,-77.58337970648039,38.79995610690815,building,microsoft
+1453996659,Wisconsin,WI,55,Dodge County,27,Meta,,Meta Beaver Dam Data Center,18261491.0,-88.81652212808933,43.510374241426895,campus,meta
+1455907959,Wyoming,WY,56,Laramie County,21,Meta,,Meta Cheyenne Data Center,11352010.0,-104.82549757192864,41.0779035259037,campus,meta
+1458626323,Texas,TX,48,Ellis County,139,Google,,Google,282284.0,-97.06091510587594,32.44011676786547,building,google
+1459880367,Mississippi,MS,28,Madison County,89,,,Amazon Canton Data Center,16581378.0,-90.0918524305196,32.597993067055405,campus,amazon
+1460861317,Texas,TX,48,Bexar County,29,Amazon Web Services,,Amazon AWS SAT - 12807 Donop,110391.0,-98.39162546590184,29.29300517623084,building,amazon
+1464257783,Virginia,VA,51,Prince William County,153,Google,,Google,289592.0,-77.58633953014488,38.779293094525954,building,google
+1470261550,Tennessee,TN,47,Montgomery County,125,Google,Building 3,SPC4A,169749.0,-87.25691732953204,36.62405506342714,building,google
+518921099,Arizona,AZ,4,Maricopa County,13,Google,,Google Data Center,7905597.0,-111.67591118204945,33.35397593532737,campus,google
+844391357,Ohio,OH,39,Franklin County,49,Google,,Google Data Center,22688090.0,-82.76621082766692,40.05820687502756,campus,google
+897226569,Virginia,VA,51,Loudoun County,107,Microsoft,,Microsoft Data Center,1575278.0,-77.5594854254625,38.949312045394976,campus,microsoft
+4879481820,Georgia,GA,13,Fulton County,121,Google,,Google Fiber,,-84.3668585,33.77156769999996,point,google
+9092482804,Virginia,VA,51,Loudoun County,107,Amazon Web Services,IAD69,Amazon Web Services IAD69,,-77.4146998,39.02548510000001,point,amazon
+10014176940,Puerto Rico,PR,72,Guaynabo Municipio,61,Microsoft,,Microsoft,,-66.10898950000002,18.41743590000001,point,microsoft
