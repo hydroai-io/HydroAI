@@ -120,7 +120,4 @@ Built by Tanvi Patel — sophomore BS Data Science student at Portland State Uni
 
 ---
 
-##  License
-
-MIT License — open for use, adaptation, and contribution.
 
