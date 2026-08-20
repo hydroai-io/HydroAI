@@ -16,10 +16,10 @@ Original file is located at
 # ============================================================
 
 # 1. Install dependencies
-!pip install -q streamlit streamlit-folium folium plotly pyngrok
+
 
 import os, time
-from google.colab import files
+
 from pyngrok import ngrok
 
 os.makedirs("data", exist_ok=True)
