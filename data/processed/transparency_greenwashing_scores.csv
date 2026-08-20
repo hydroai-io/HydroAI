@@ -1,0 +1,5 @@
+Company,Transparency Score (0-4),Transparency Label,Greenwashing Ratio,Greenwashing Risk
+Google,4,Facility-Level (Named Locations),0.583,Moderate
+Microsoft,3,Company-Wide Aggregate,0.6,High Greenwashing Risk
+Meta,4,Facility-Level (Named Locations),0.538,Moderate
+Amazon,1,Ratio Only (No Absolute Volume),0.462,Moderate
