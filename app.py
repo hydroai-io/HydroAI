@@ -35,7 +35,7 @@ if app_fname != "app.py":
 print("Now upload hydroai_final_scored.csv (the corrected one):")
 uploaded_data = files.upload()
 csv_fname = list(uploaded_data.keys())[0]
-os.rename(csv_fname, "data/hydroai_final_scored.csv")
+os.rename(csv_fname, "data/processed/hydroai_final_scored.csv")
 
 print("Files ready:", os.listdir("."), "| data/:", os.listdir("data"))
 
