@@ -68,7 +68,7 @@ DISCLOSURE = pd.DataFrame([
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/processed/hydroai_final_scored.csv")
+    df = pd.read_csv("data/hydroai_final_scored.csv")
     df["company_title"] = df["company"].str.title()
     name_filled = df["name"].fillna(df["company_title"] + " facility")
     df["display_label"] = (
@@ -93,23 +93,6 @@ st.info(f"**Read this before using the results below:** {DISCLAIMER}")
 tab_search, tab_map, tab_facility, tab_about = st.tabs(
     ["\U0001F50D Search a Company", "\U0001F5FA\uFE0F Facility Map", "\U0001F3E2 Facility Lookup", "\U0001F4D6 Methodology & Sources"]
 )
-# ---------------------------------------------------------------------------
-# TAB 1: Search a company -> disclosure + footprint + facility-level stress
-#         and cooling alternatives (the end-to-end "final exam" flow)
-# ---------------------------------------------------------------------------
-with tab_search:
-    st.subheader("Company water footprint & disclosure quality")
-    companies = sorted(df["company_title"].unique())
-    selected_company = st.selectbox("Choose a company", companies, index=companies.index("Google") if "Google" in companies else 0)
-
-    row = DISCLOSURE[DISCLOSURE["Company"] == selected_company]
-    if not row.empty:
-        row = row.iloc[0]
-        c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Reported water use", f"{row['Water_Consumed_ML']:,.0f} ML", help=row["Original_Metric"])
-        c2.metric("Disclosure status", row["Data_Status"])
-        c3.metric("Transparency score", f"{row['Transparency_Score']} / 4", help=row["Transparency_Label"])
-        c4.metric("Greenwashing risk", row["Greenwashing_Risk"], help=f"Ratio: {row['Greenwashing_Ratio']:.3f}")
     else:
         st.warning("No company-level disclosure record for this company.")
 
@@ -196,7 +179,9 @@ with tab_map:
     )
     st.markdown(legend_html, unsafe_allow_html=True)
     st_folium(m, use_container_width=True, height=560, returned_objects=[])
-    # ---------------------------------------------------------------------------
+        st_folium(m, use_container_width=True, height=560, returned_objects=[])
+
+# ---------------------------------------------------------------------------
 # TAB 3: Single-facility lookup
 # ---------------------------------------------------------------------------
 with tab_facility:
