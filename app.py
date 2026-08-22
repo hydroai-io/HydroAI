@@ -68,7 +68,7 @@ DISCLOSURE = pd.DataFrame([
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/hydroai_final_scored.csv")
+    df = pd.read_csv("data/processed/hydroai_final_scored.csv")
     df["company_title"] = df["company"].str.title()
     name_filled = df["name"].fillna(df["company_title"] + " facility")
     df["display_label"] = (
